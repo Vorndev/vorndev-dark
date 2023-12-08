@@ -4,10 +4,19 @@
   "description": "Vorndev's dark theme",
   "version": "0.0.1",
   "publisher": "Vorndev",
+  "icon": "Logo.png",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Vorndev/vorndev-dark"
   },
+  "keywords": [
+    "dark",
+    "clean",
+    "simple",
+    "theme",
+    "vorndev",
+    "red"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
