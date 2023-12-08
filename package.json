@@ -1,0 +1,26 @@
+{
+  "name": "vorndev-dark",
+  "displayName": "Vorndev Dark",
+  "description": "Vorndev's dark theme",
+  "version": "0.0.1",
+  "publisher": "Vorndev",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vorndev Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vorndev Dark-color-theme.json"
+      }
+    ]
+  }
+}
